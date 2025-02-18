@@ -3,7 +3,7 @@
 
 <p align="left"> 
   
-- 🎓 Estou cursando ciência da computação
+- 🎓 Cursando ciência da computação
 - 📚 Aprendendo mais sobre Java ❤️
 - 🌱 Explorando novas tecnologias
 </p>
@@ -17,9 +17,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 <br>
-<br>
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 </p>
 
 <br>
@@ -30,6 +27,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 </p>
 
 <br>
@@ -37,18 +36,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yursx&theme=midnight-purple&show_icons=true" />
 </a>
 <br>
-<br>
-<p align="left">
-  💌 Aqui para entrar em contato comigo: 
-</p>
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yurisantana728@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-oliveira-santana/)" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yuurs_/" alt="Instagram"/></a>
-</p>
-<br>
+<p align="left"> 
+
+ ### Contato:
+
+<div> 
+  <a href="https://www.linkedin.com/in/yuri-oliveira-santana/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15" target="_blank"></a>
+    <a href="https://www.instagram.com/yuurs_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15" target="_blank"></a> 
+</div>
+ 
+</br>
 
 ![](https://komarev.com/ghpvc/?username=yursx&color=006bed)
